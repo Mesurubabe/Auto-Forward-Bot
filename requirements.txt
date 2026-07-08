@@ -1,6 +1,5 @@
 pyrofork
 aiohttp
-TgCrypto==1.1.1
 uvloop
 motor
 pymongo
